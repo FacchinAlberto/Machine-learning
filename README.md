@@ -1,4 +1,4 @@
-# Machine-learning
+# Machine learning
 
 Challenge one: supervised learning (logistic regression, Ridge, Lasso and Elastic Net, decision tree using ID3 algorithm, Naive Bayes and k-nearest neighbors) and unsupervised learning (PCA, k-means, t-sne and DBSCAN).
 
